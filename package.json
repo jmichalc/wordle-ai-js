@@ -1,0 +1,12 @@
+{
+  "name": "wordle-ai-js",
+  "version": "1.0.0",
+  "description": "Finds a good first word to guess in wordle",
+  "main": "wordle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Michalczak (https://github.com/jmichalc)",
+  "license": "MIT",
+  "type": "module"
+}
